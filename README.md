@@ -3,10 +3,11 @@
 ***
 ## Создать проект
 1) Создать на сайте репозиторий
-2) через консоль, на ПК, копируем данные 'git clone https://github.com/...'
-3) сконфигурировать git:
-'git config user.name "user"'
-'git config user.email user@mail.ru'
+2) через консоль, на ПК, копируем данные
+  git clone https://github.com/...
+4) сконфигурировать git:
+  'git config user.name "user"'
+  'git config user.email user@mail.ru'
 4) получили рабочую независимую версию на своем ПК
 ***
 Для просмотра истории 'git log'
